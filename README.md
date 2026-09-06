@@ -1,4 +1,4 @@
-Playgame
+
 Playgame, Python ile geliştirilmiş 49 farklı mini oyunu ve uygulamayı tek bir modern masaüstü arayüzünde toplayan eğlenceli bir koleksiyondur.
 
 🚀 Özellikler
