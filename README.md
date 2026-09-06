@@ -24,5 +24,7 @@ PyInstaller (Uygulama Paketleme)
 
 Inno Setup (Kurulum Sihirbazı)
 
+UYARI: Bu uygulama yapay zeka asistanı Gemini'ın katkılarıyla hazırlanmıştır!
+
 📄 Lisans
 Bu proje MIT License ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
